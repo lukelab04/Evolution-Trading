@@ -1,7 +1,7 @@
 # Evolution-Trading
 A small example to show how stock trading can be done with evolutionary neural networks.
 
-A more in-depth explanation of this code can be found here: 
+A more in-depth explanation of this code can be found [here](https://www.youtube.com/watch?v=DcIlsznZrWo): 
 
 # Usage
 
